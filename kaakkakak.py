@@ -37,3 +37,5 @@ x=0
 binarioSeparado = toBinary()
 for x in binarioSeparado:
     print("a")
+
+#LOAKOSAOFASFOASOFASFOAOFANOFASOFNAFNAO
